@@ -1,15 +1,8 @@
 <img src="pic1.png" alt="GitHub Banner" width="100%" />
 
 # 💫 Welcome to my profile:
-<table width="100%" cellspacing="5" style="border: none;">
-    <tr>
-        <!-- rows -->
-        <td>👩🏼‍💻 I'm currently working on Kotlin project<br>💻 I'm looking for an internship</td>
-        <td style="text-align: right;">
-            <img src="coffee.gif" alt="GitHub gif" width="20%">
-        </td>
-    </tr>
-</table>
+👩🏼‍💻 I'm currently working on Kotlin project<br>💻 I'm looking for an internship<br>
+<img src="coffee.gif" alt="GitHub gif" width="10%" >
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
