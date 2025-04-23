@@ -1,11 +1,11 @@
 <img src="pic1.png" alt="GitHub Banner" width="100%" />
 
-# 💫 Welcome to my profile👋🏼:
-<table width="100%" cellspacing="10">
+# 💫 Welcome to my profile:
+<table width="100%" cellspacing="8" style="border: none;">
 			<tr>
 				<!-- rows -->
-				<td> I'm currently working on Kotlin project<br>I'm looking for an internship</td>
-				<td> <img src="coffee.gif" alt="GitHub gif" width="100%"> </td>
+				<td>👩🏼‍💻 I'm currently working on Kotlin project<br>💻 I'm looking for an internship</td>
+				<td> <img src="coffee.gif" alt="GitHub gif" width="20%"> </td>
 			</tr>
 </table>
 
