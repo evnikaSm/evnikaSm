@@ -5,7 +5,7 @@
 			<tr>
 				<!-- rows -->
 				<td> I'm currently working on Kotlin project<br>I'm looking for an internship</td>
-				<td> <img src="coffee.gif" alt="GitHub gif" width="20%"> </td>
+				<td> <img src="coffee.gif" alt="GitHub gif" width="100%"> </td>
 			</tr>
 </table>
 
