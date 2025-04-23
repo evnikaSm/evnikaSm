@@ -2,11 +2,13 @@
 
 # 💫 Welcome to my profile:
 <table width="100%" cellspacing="5" style="border: none;">
-			<tr>
-				<!-- rows -->
-				<td>👩🏼‍💻 I'm currently working on Kotlin project<br>💻 I'm looking for an internship</td>
-				<td style="text-align: right;"> <img src="coffee.gif" alt="GitHub gif" width="20%"> </td>
-			</tr>
+    <tr>
+        <!-- rows -->
+        <td>👩🏼‍💻 I'm currently working on Kotlin project<br>💻 I'm looking for an internship</td>
+        <td style="text-align: right;">
+            <img src="coffee.gif" alt="GitHub gif" width="20%">
+        </td>
+    </tr>
 </table>
 
 # 💻 Tech Stack:
