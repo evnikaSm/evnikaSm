@@ -1,7 +1,7 @@
 <img src="pic1.png" alt="GitHub Banner" width="100%" />
 
 # 💫 Welcome to my profile:
-👩🏼‍💻 I'm currently working on Kotlin project<br>💻 I'm looking for an internship<br>
+👩🏼‍💻 I'm currently working on python project - android app GroupieCam<br>💻 I'm looking for an internship<br>
 <img src="coffee.gif" alt="GitHub gif" width="10%" >
 
 # 💻 Tech Stack:
